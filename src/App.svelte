@@ -50,7 +50,7 @@ h2,h3 {font-family: "Raleway", sans-serif}
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide">TESTING</a>
+    <a href="#home" class="w3-bar-item w3-button w3-wide"><img src="/logo.png" alt="LOGO" width="100" height="100"> | Burridge Bike Repairs</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
